@@ -1,0 +1,7 @@
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Start\Store.Up.Start.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Start\Store.Up.Start.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Start\Store.Up.Start.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Start\obj\X86\Debug\Store.Up.Start.MyControl.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Start\obj\X86\Debug\Store.Up.Start.csproj.GenerateResource.Cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Start\obj\X86\Debug\Store.Up.Start.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Start\obj\X86\Debug\Store.Up.Start.pdb

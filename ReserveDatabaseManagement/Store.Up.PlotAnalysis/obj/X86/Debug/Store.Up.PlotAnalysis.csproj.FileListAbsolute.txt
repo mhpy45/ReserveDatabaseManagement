@@ -1,0 +1,11 @@
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.PlotAnalysis.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.PlotAnalysis.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.PlotAnalysis.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.PlotAnalysis\obj\X86\Debug\Store.Up.PlotAnalysis.MyControl.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.PlotAnalysis\obj\X86\Debug\Store.Up.PlotAnalysis.csproj.GenerateResource.Cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.PlotAnalysis\obj\X86\Debug\Store.Up.PlotAnalysis.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.PlotAnalysis\obj\X86\Debug\Store.Up.PlotAnalysis.pdb
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.PlotAnalysis\Store.Up.PlotAnalysis.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.PlotAnalysis\Store.Up.PlotAnalysis.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.PlotAnalysis\Store.Up.PlotAnalysis.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.PlotAnalysis\obj\X86\Debug\Store.Up.PlotAnalysis.csprojResolveAssemblyReference.cache

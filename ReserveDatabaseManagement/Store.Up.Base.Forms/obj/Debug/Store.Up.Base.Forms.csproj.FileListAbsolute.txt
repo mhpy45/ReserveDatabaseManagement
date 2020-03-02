@@ -1,0 +1,9 @@
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\bin\Debug\Store.Up.Base.Forms.dll.config
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\bin\Debug\Store.Up.Base.Forms.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\bin\Debug\Store.Up.Base.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.Store_Up_Base_Form.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.Properties.Resources.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.csproj.GenerateResource.Cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Base.Forms\obj\Debug\Store.Up.Base.Forms.csprojResolveAssemblyReference.cache

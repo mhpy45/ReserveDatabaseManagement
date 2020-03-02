@@ -1,0 +1,12 @@
+E:\软件\DataManager\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.config
+E:\软件\DataManager\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.dll
+E:\软件\DataManager\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.pdb
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\ReserveDatabaseManagement\Store.Up.AttributeDataManagement.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\obj\X86\Debug\Store.Up.AttributeDataManagement.csprojResolveAssemblyReference.cache
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.AttributeDataManagement\Store.Up.AttributeDataManagement.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\obj\X86\Debug\Store.Up.AttributeDataManagement.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.AttributeDataManagement\obj\X86\Debug\Store.Up.AttributeDataManagement.pdb

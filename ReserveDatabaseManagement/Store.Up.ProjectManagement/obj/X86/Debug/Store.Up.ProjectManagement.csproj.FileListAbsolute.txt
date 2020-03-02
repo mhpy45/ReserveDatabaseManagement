@@ -1,0 +1,8 @@
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.ProjectManagement\Store.Up.ProjectManagement.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.ProjectManagement\Store.Up.ProjectManagement.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.ProjectManagement\Store.Up.ProjectManagement.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.ProjectManagement\obj\X86\Debug\Store.Up.ProjectManagement.MyControl.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.ProjectManagement\obj\X86\Debug\Store.Up.ProjectManagement.csproj.GenerateResource.Cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.ProjectManagement\obj\X86\Debug\Store.Up.ProjectManagement.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.ProjectManagement\obj\X86\Debug\Store.Up.ProjectManagement.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.ProjectManagement\obj\X86\Debug\Store.Up.ProjectManagement.csprojResolveAssemblyReference.cache

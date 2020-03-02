@@ -1,0 +1,17 @@
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\bin\Debug\Store.Up.Views.Forms.dll.config
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\bin\Debug\Store.Up.Views.Forms.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\bin\Debug\Store.Up.Views.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.AttributeHookForm.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.Store_Up_AttributeImportant_Form.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.Properties.Resources.resources
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.csproj.GenerateResource.Cache
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.dll.licenses
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Views.Forms\Store.Up.Views.Forms.dll.config
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Views.Forms\Store.Up.Views.Forms.dll
+E:\软件\SuperMap_iDesktop_8.1\Bin\Plugins\Store.Up.Views.Forms\Store.Up.Views.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\Bin\Debug\Store.Up.Base.Forms.dll
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\Bin\Debug\Store.Up.Base.Forms.pdb
+C:\Users\ADMIN-PC\Documents\Visual Studio 2012\Projects\ReserveDatabaseManagement\Store.Up.Views.Forms\obj\Debug\Store.Up.Views.Forms.AttributeExport.resources
